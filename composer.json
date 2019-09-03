@@ -1,5 +1,5 @@
 {
-    "name": "sebastiaanluca/laravel-auto-morph-map",
+    "name": "thejacer87/laravel-auto-morph-map",
     "type": "library",
     "description": "Automatically alias and map the polymorphic types of Eloquent models.",
     "keywords": [
@@ -23,7 +23,7 @@
     ],
     "require": {
         "php": "^7.2",
-        "laravel/framework": "5.8.*"
+        "laravel/framework": "^6.0"
     },
     "require-dev": {
         "kint-php/kint": "^3.0",
